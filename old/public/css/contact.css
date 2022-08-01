@@ -1,0 +1,8 @@
+.contact__main h2{
+    text-transform: uppercase;
+    font-family: var(--tipografiaTitulos);
+}
+
+.contact__main__section--data article h4{
+    color : var(--colorVerdeTitulos)
+}

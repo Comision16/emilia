@@ -1,0 +1,28 @@
+header a {
+    text-transform: uppercase;
+    line-height: 30px;
+    font-weight: 200;
+}
+
+.header__vertical{
+    margin-left: 30px;
+}
+
+.header__horizontal{
+    text-align: right;
+}
+
+.header__horizontal--menu {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 20px;
+}
+
+.header__horizontal--menu ul li{
+    display: inline;
+}
+
+.header__horizontal--redes {
+    margin-top: 10px;
+}
